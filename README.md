@@ -15,6 +15,10 @@
  - [**Promotion Page - Notion**](https://www.notion.so/f641d66cb0094b72b946713d30dd489d)
  - [**Google Play**](https://play.google.com/store/apps/details?id=kr.doubld.app)
  - [**AppStore**](https://apps.apple.com/us/app/id1618612924)
+ - [**API Document**](https://documenter.getpostman.com/view/20198950/Uz5AseLQ#2c7c55bf-949c-4265-ab06-b3afeb6d82c1)
+ - [**Privacy Policies**](https://github.com/GC210GP/privacy_policies/blob/main/privacy.md)
+ - [**Terms of Service**](https://github.com/GC210GP/privacy_policies/blob/main/policies.md)
+ - [**Opensource Software Notice**](https://github.com/GC210GP/privacy_policies/blob/main/oss_notice.md)
 
 <br>
 

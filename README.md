@@ -36,7 +36,7 @@
 - [**Backend - Main Server (Spring)**](https://github.com/GC210GP/blood-donation-server)
 - [**API Document**](https://documenter.getpostman.com/view/20198950/Uz5AseLQ#2c7c55bf-949c-4265-ab06-b3afeb6d82c1)
 
-## Recommendation Server
+### Recommendation Server
 - [**Backend - Recommandation Server (Python)**](https://github.com/GC210GP/recommend-server)
 
 <br>
@@ -55,7 +55,7 @@
 <br>
 
 ## Licenses
- - This project is under MIT-2.0 License
- - [**Opensource Software Notice**](https://github.com/GC210GP/privacy_policies/blob/main/oss_notice.md)
+ - This project is under MIT License
+ - [Opensource Software Notice](https://github.com/GC210GP/privacy_policies/blob/main/oss_notice.md)
 
  <br><br>

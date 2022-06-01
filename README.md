@@ -2,7 +2,7 @@
 
 # Graduation Project
 <p align="left">
-    <img src="https://github.com/GC210GP/wiki-221/raw/master/presentations/logo.png" width="700px">
+    <img src="https://github.com/GC210GP/wiki-221/raw/main/presentations/logo.png" width="700px">
 </p>
 
 <br>

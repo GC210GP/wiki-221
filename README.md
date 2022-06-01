@@ -13,18 +13,30 @@
  - The goal of this project is to increase blood donation in Korea.
  - This project's objective is find the best person of blood receiver with ML algorithm and collecting user information throught the flutter app.
  - [**Promotion Page - Notion**](https://www.notion.so/f641d66cb0094b72b946713d30dd489d)
- - [**Google Play**](https://play.google.com/store/apps/details?id=kr.doubld.app)
- - [**AppStore**](https://apps.apple.com/us/app/id1618612924)
- - [**API Document**](https://documenter.getpostman.com/view/20198950/Uz5AseLQ#2c7c55bf-949c-4265-ab06-b3afeb6d82c1)
- - [**Privacy Policies**](https://github.com/GC210GP/privacy_policies/blob/main/privacy.md)
- - [**Terms of Service**](https://github.com/GC210GP/privacy_policies/blob/main/policies.md)
- - [**Opensource Software Notice**](https://github.com/GC210GP/privacy_policies/blob/main/oss_notice.md)
 
 <br>
 
-## Related Repositories
+## Application
+ - [**Google Play**](https://play.google.com/store/apps/details?id=kr.doubld.app)
+ - [**AppStore**](https://apps.apple.com/us/app/id1618612924)
+
+<br>
+
+ - [**Privacy Policies**](https://github.com/GC210GP/privacy_policies/blob/main/privacy.md)
+ - [**Terms of Service**](https://github.com/GC210GP/privacy_policies/blob/main/policies.md)
+
+<br>
+
+## Related Documents and Repositories
+
+### FE
 - [**Frontend - Flutter**](https://github.com/GC210GP/flutter-app)
+
+### BE
 - [**Backend - Main Server (Spring)**](https://github.com/GC210GP/blood-donation-server)
+- [**API Document**](https://documenter.getpostman.com/view/20198950/Uz5AseLQ#2c7c55bf-949c-4265-ab06-b3afeb6d82c1)
+
+## Recommendation Server
 - [**Backend - Recommandation Server (Python)**](https://github.com/GC210GP/recommend-server)
 
 <br>
@@ -39,5 +51,11 @@
  - See the link below to watch our project's final presentation video and PDF file.
  - [YouTube](https://youtu.be/-td943KwdB8)
  - [Final Presentation PDF](https://github.com/GC210GP/wiki-221/blob/main/presentations/220601_GraduationProject_2분반5조%20Final.pdf)
+
+<br>
+
+## Licenses
+ - This project is under MIT-2.0 License
+ - [**Opensource Software Notice**](https://github.com/GC210GP/privacy_policies/blob/main/oss_notice.md)
 
  <br><br>
